@@ -1,23 +1,17 @@
-### **Reiniciar alumnos**
+### **(ANVERSO)**
 
-**ID:** 008 <br>
-**Breve descripción:** Elimina a todos los alumnos de la base de datos del programa.
+#### **ID:** 008 **Reiniciar alumnos**
 
-**Actores principales:** Profesor <br>
-**Actores secundarios:** Alumno
+---
 
-**Precondiciones:**
+Quiero poder borrar a todos los alumnos de una vez.
 
-+ Debe existir algún alumno en la base de datos.
+**Prioridad:** 1
 
-**Flujo principal:**
+---
 
-1. El profesor activa el botón de borrado.
+### **(REVERSO)**
 
-**Postcondiciones:**
+---
 
-+ Los alumnos son borrados y la base de datos se guarda vacía.
-
-**Flujos alternativos:**
-
-1.a. No hay alumnos en la base de datos y se muestra un mensaje de error.
++ Quiero poder eliminar todos los datos almacenados con una sola acción.

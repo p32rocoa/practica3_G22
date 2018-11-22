@@ -1,24 +1,19 @@
-### **Listar alumnos**
+### **(ANVERSO)**
 
-**ID:** 003 <br>
-**Breve descripción:** Muestra toda la lista de alumnos.
+#### **ID:** 003 **Listar alumnos**
 
-**Actores principales:** Profesor <br>
-**Actores secundarios:** Alumno
+---
 
-**Precondiciones:**
+Quiero poder ver a todos los alumnos por orden.
 
-+ Debe existir al menos un alumno en el sistema.
+**Prioridad:** 2
 
-**Flujo principal:**
+---
 
-1. El caso comienza cuando el sistema necesita mostrar la lista de alumnos.
-2. El sistema pide al profesor en qué orden los quiere mostrar.
+### **(REVERSO)**
 
-**Postcondiciones:**
+---
 
-+ Se ordenan los alumnos y se muestran en orden.
-
-**Flujos alternativos:**
-
-2.a. No existe ningún alumno en la aplicación y se muestra un mensaje de error.
++ Quiero poder ver a los alumnos por orden alfabético de su nombre o sus apellidos.
++ Quiero poder ordenarlos por su DNI.
++ Quiero poder ordenarlos de mayor a menor curso.

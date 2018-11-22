@@ -1,26 +1,19 @@
-### **Borrar alumno**
+### **(ANVERSO)**
 
-**ID:** 004 <br>
-**Breve descripción:** Borra a un alumno inscrito en el programa.
+#### **ID:** 004 **Borrar alumno**
 
-**Actores principales:** Profesor <br>
-**Actores secundarios:** Alumno
+---
 
-**Precondiciones:**
+Quiero poder borrar a un alumno.
 
-+ El alumno debe existir en el sistema.
-+ El profesor debe conocer uno de los datos identificativos del alumno (DNI, apellidos).
+**Prioridad:** 3
 
-**Flujo principal:**
+---
 
-1. El caso de uso comienza cuando el sistema necesita borrar al alumno que el profesor especifique.
-2. El sistema recoge los datos que el profesor introduce para encontrar al alumno y, posteriormente, borrarlo.
+### **(REVERSO)**
 
-**Postcondiciones:**
+---
 
-+ Se encuentra al alumno y se borra del sistema.
-
-**Flujos alternativos:**
-
-2.a. Si el alumno no existe, se muestra un mensaje de error.<br>
-2.b. Si los apellidos buscados coinciden entre varios alumnos, se pedirá el DNI.<br>
++ Quiero poder borrar a un alumno conociendo su DNI.
++ Quiero poder borrar a un alumno por sus apellidos si son únicos en el programa.
++ Si al borrar al alumno por apellidos, estos no son únicos, resolver el conflicto pidiendo el DNI.
