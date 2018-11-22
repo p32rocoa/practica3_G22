@@ -1,20 +1,25 @@
-### **(ANVERSO)**
+### **Insertar alumno**
 
-#### **ID:** 005 **Insertar alumno**
+**ID:** 005 <br>
+**Breve descripción:** Inserta a un alumno nuevo en el programa.
 
----
+**Actores principales:** Profesor <br>
+**Actores secundarios:** Alumno
 
-Quiero poder añadir a nuevos alumnos.
+**Precondiciones:**
 
-**Prioridad:** 1
++ El alumno no debe existir en el sistema.
++ El profesor debe conocer los datos obligatorios para insertar un alumno nuevo.
 
----
+**Flujo principal:**
 
-### **(REVERSO)**
+1. El caso comienza cuando el sistema necesita insertar un nuevo alumno.
+2. El sistema recoge los datos que el profesor introduce en una nueva entrada.
 
----
+**Postcondiciones:**
 
-+ Quiero poder insertar alumnos que no estuvieran previamente.
-+ Los atributos DNI e email deben ser únicos para cada uno de ellos, por lo que un alumno nuevo no debe tener un DNI ni un email ya introducido en la base de datos.
-+ Todos los campos deben ser obligatorios excepto el grupo al que pertenece y su rol en este.
-* La cantidad de alumnos no puede ser mayor a 150.
++ Se inserta el nuevo alumno en la base de datos del programa.
+
+**Flujos alternativos:**
+
+1.a Si el alumno ya se encuentra registrado o incumple alguna de las restricciones, se muestra un mensaje de error.

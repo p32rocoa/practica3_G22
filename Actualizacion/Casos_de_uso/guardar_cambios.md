@@ -1,19 +1,23 @@
-### **(ANVERSO)**
+### **Guardar cambios**
 
-#### **ID:** 007 **Guardar cambios**
+**ID:** 007 <br>
+**Breve descripción:** Guarda los cambios realizados en el programa.
 
----
+**Actores principales:** Profesor <br>
+**Actores secundarios:** Alumno
 
-Quiero poder cerrar el programa y no perder los cambios realizados.
+**Precondiciones:**
 
-**Prioridad:** 3
++ Debe existir algún cambio en la base de datos.
 
----
+**Flujo principal:**
 
-### **(REVERSO)**
+1. El profesor activa el botón de guardado.
 
----
+**Postcondiciones:**
 
-+ Quiero poder guardar los cambios de forma manual.
-+ Quiero poder guardar los cambios automáticamente.
-+ La información se almacenará en un fichero binario.
++ Los cambios se guardan en la base de datos.
+
+**Flujos alternativos:**
+
+1.a. No hay cambios en la base de datos y el programa no hace nada.
