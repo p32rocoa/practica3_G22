@@ -4,7 +4,6 @@
 **Breve descripción:** Carga la base de datos del programa.
 
 **Actores principales:** Profesor <br>
-**Actores secundarios:** Alumno
 
 **Precondiciones:**
 
