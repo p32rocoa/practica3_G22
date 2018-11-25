@@ -6,7 +6,7 @@
 
 Quiero poder cargar la base de datos en el programa.
 
-**Prioridad:** 11
+**Prioridad:** 6
 
 ---
 
