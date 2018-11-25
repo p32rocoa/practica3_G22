@@ -13,7 +13,7 @@
 **Flujo principal:**
 
 1. El caso de uso comienza cuando se pulsa el boton de registro.
-2. El usuario elige su usuario, su contraseña, y su rol en el departamento/universidad.
+2. El usuario elige su usuario y su contraseña.
 
 **Postcondiciones:**
 

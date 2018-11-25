@@ -10,7 +10,6 @@
 
 + Debe existir una cuenta que borrar<br>
 + Solo puede realizarlo un coordinador<br>
-+ El coordinador no puede borrar cuentas de otros coordinadores.<br>
 
 **Flujo principal:**
 
@@ -24,6 +23,4 @@
 
 **Flujos alternativos:**
 
-2.a. Si el usuario intenta borrar una cuenta de otro coordinador, muestra un mensaje de error<br>
-2.b. Si el coordinador borra su cuenta y es el último que existe, debe designar otro coordinador
-entre los profesores ya existentes, si no hay más, la cuenta no se puede borrar.
+2.a. Si el boton de administrar cuentas no lo pulsa el coordiandor, muestra un mensaje de error.
