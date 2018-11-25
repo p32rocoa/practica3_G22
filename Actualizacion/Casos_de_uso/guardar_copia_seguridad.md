@@ -4,7 +4,6 @@
 **Breve descripción:** Guarda una copia de seguridad de la base de datos del programa.
 
 **Actores principales:** Coordinador <br>
-**Actores secundarios:** Alumno
 
 **Precondiciones:**
 
