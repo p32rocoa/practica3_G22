@@ -4,9 +4,9 @@
 
 ---
 
-Quiero poder crear una copiad e seguridad de la base de datos del programa.
+Quiero poder crear una copia de seguridad de la base de datos del programa.
 
-**Prioridad:** 4
+**Prioridad:** 6
 
 ---
 
@@ -14,5 +14,5 @@ Quiero poder crear una copiad e seguridad de la base de datos del programa.
 
 ---
 
-+ Quiero poder guardar un archivo de base de datos aparte del ya existente cone l que se maneja el programa
++ Quiero poder guardar un archivo de base de datos aparte del ya existente, con el que se maneja el programa.
 + Quiero que solo pueda hacerlo el coordinador del programa.
