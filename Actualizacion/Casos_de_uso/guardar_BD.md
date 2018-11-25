@@ -1,4 +1,4 @@
-### **Guardar cambios**
+### **Guardar BD**
 
 **ID:** 007 <br>
 **Breve descripción:** Guarda los cambios realizados en el programa.
