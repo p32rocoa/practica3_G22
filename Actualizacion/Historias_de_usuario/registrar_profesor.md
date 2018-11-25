@@ -4,9 +4,9 @@
 
 ---
 
-Quiero poder registrar cuentas de tipo profesor.
+Quiero poder registrar cuentas de profesores.
 
-**Prioridad:** 4
+**Prioridad:** 5
 
 ---
 
@@ -14,6 +14,6 @@ Quiero poder registrar cuentas de tipo profesor.
 
 ---
 
-+ Quiero poder crear nuevas cuentas de tipo profesor.
-+ Quiero que solo puedan ser de tipo profesor y no de tipo coordinador.
++ Quiero poder crear nuevas cuentas de profesores.
++ Quiero que solo se puedan registrar profesores ayudantes cuando ya haya un coordinador registrado.
 + Quiero que los nombres de usuario de profesor sean únicos.
