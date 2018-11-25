@@ -4,7 +4,7 @@
 **Breve descripción:** Borra una cuenta de profesor en el sistema.
 
 **Actores principales:** Coordinador <br>
-**Actores secundarios:** Alumno
+**Actores secundarios:** Profesor
 
 **Precondiciones:**
 
