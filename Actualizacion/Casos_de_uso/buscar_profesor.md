@@ -4,7 +4,7 @@
 **Breve descripción:** Busca un profesor en el sistema.
 
 **Actores principales:** Profesor <br>
-**Actores secundarios:** Alumno
+**Actores secundarios:** Profesor
 
 **Precondiciones:**
 
