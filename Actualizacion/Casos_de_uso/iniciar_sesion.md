@@ -4,7 +4,6 @@
 **Breve descripción:** Un profesor inicia su sesión en el sistema.
 
 **Actores principales:** Profesor <br>
-**Actores secundarios:** Alumno
 
 **Precondiciones:**
 
