@@ -4,7 +4,6 @@
 **Breve descripción:** Registra una nueva cuenta de profesor en el sistema.
 
 **Actores principales:** Profesor <br>
-**Actores secundarios:** Alumno
 
 **Precondiciones:**
 
