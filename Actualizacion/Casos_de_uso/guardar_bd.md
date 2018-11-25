@@ -4,7 +4,6 @@
 **Breve descripción:** Guarda los cambios realizados en el programa.
 
 **Actores principales:** Profesor <br>
-**Actores secundarios:** Alumno
 
 **Precondiciones:**
 
