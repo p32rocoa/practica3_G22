@@ -12,8 +12,8 @@
 
 **Flujo principal:**
 
-1. El caso de uso comienza cuando se pulsa el boton de buscar  grupo
-2. El usuario escribe uno de los datos del grupo
+1. El caso de uso comienza cuando se pulsa el boton de buscar grupo.
+2. El usuario escribe uno de los datos del grupo.
 3. El usuario pulsa el boton de buscar.
 
 **Postcondiciones:**
