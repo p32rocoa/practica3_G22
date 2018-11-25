@@ -6,7 +6,7 @@
 
 Quiero poder borrar cuentas de profesor.
 
-**Prioridad:** 2
+**Prioridad:** 6
 
 ---
 
@@ -15,4 +15,4 @@ Quiero poder borrar cuentas de profesor.
 ---
 
 + Quiero poder borrar cuentas registradas en el sistema.
-+ Quiero que solo pueda realizar esta acción el coordiandor.
++ Quiero que solo pueda realizar esta acción el coordinador.
